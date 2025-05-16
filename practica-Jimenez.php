@@ -4,7 +4,7 @@
  *
  * Script de ejemplo para generar documentación con phpDocumentor.
  *
- * @author Jimenez
+ * @author Jimenez Cebrian, Ruben
  * @version 1.0
  * @internal Este script es parte de una práctica para el módulo de Desarrollo Web en Entorno Servidor.
  */
